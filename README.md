@@ -1,4 +1,4 @@
-![numpy icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhuseyinsahin.medium.com%2Fveri-bilimi-i%25C3%25A7in-numpy-k%25C3%25BCt%25C3%25BCphanesi-adbb89896587&psig=AOvVaw3dFXnJSg7pRxfsm-042ch7&ust=1710344811101000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJClvYqJ74QDFQAAAAAdAAAAABAE)
+![numpy icon](https://miro.medium.com/v2/resize:fit:720/format:webp/1*OUXGr3W72lDG0gSy88_kow.png)
 
 ## **1) Temel Bilgiler:**
 
