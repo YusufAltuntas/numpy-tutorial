@@ -1,11 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufAltuntas/numpy-tutorial/blob/master/numpy-tutorial.ipynb)
 
-
-<<<<<<< HEAD
 ![numpy icon](/1_OUXGr3W72lDG0gSy88_kow.png)
-=======
-![numpy icon](https://miro.medium.com/v2/resize:fit:720/format:webp/1*OUXGr3W72lDG0gSy88_kow.png)
->>>>>>> ed3d1ee7fe4479819f0d136ef5c5d3f571d45405
+
 
 ## **1) Temel Bilgiler:**
 
