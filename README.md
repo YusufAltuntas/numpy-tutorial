@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufAltuntas/numpy-tutorial/blob/master/numpy-tutorial.ipynb)
 
-![numpy icon](/1_OUXGr3W72lDG0gSy88_kow.png)
+![numpy icon](/numpy.png)
 
 
 ## **1) Temel Bilgiler:**
